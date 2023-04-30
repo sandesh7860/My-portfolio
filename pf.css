@@ -1,0 +1,58 @@
+body{
+    background-color: blanchedalmond;
+    
+}
+
+header{
+    color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: size 14px;
+    font-weight:bold;
+    padding:10px;
+    background-color:rgb(7, 6, 6);
+    border-bottom:0cap;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom:1px solid #ccc;
+    border-top:1px solid #ccc;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top:1px solid #ccc;
+
+}
+.li{
+    color: burlywood;
+
+}
+section{
+    font-family:"https://fonts.google.com/share?selection.family=Bangers";
+}
+ul{
+    list-style-type:none;
+    padding:0;
+    margin:0;
+    margin-top:0;
+    margin-bottom: 0;
+    margin-left:0;
+    margin-right:0;
+    padding:0;
+    padding-left:0;
+    padding-right:0;
+    padding-top:0;
+    padding-bottom:0;
+    color: darkgray;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+
+}
+.img{
+    width:100%;
+    height:auto;
+    max-width: 100%;
+    max-height:100%
+    
+
+}
